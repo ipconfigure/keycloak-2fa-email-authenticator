@@ -30,11 +30,11 @@
                             <div class="${properties.kcFormButtonsWrapperClass!}">
                                 <input class="${properties.kcButtonClass!} ${properties.kcButtonPrimaryClass!} ${properties.kcButtonLargeClass!} ${properties.kcButtonBlockClass!}" name="login" type="submit" value="${msg("doLogIn")}" />
                             </div>
-                            <div id="kc-registration-container" class="pf-v5-c-login__main-footer-band">
-                                <div class="${properties.kcFormButtonsWrapperClass!}">
-                                    <input class="${properties.kcButtonClass!} ${properties.kcButtonDefaultClass!} ${properties.kcButtonLargeClass!}" name="resend" type="submit" value="${msg("resendCode")}" />
-                                    <input class="${properties.kcButtonClass!} ${properties.kcButtonDefaultClass!} ${properties.kcButtonLargeClass!}" name="cancel" type="submit" value="${msg("doCancel")}" />
-                                </div>
+                        </div>
+                        <div id="kc-registration-container" class="pf-v5-c-login__main-footer-band">
+                            <div class="${properties.kcFormButtonsWrapperClass!}">
+                                <input class="${properties.kcButtonClass!} ${properties.kcButtonDefaultClass!} ${properties.kcButtonLargeClass!}" name="resend" type="submit" value="${msg("resendCode")}" />
+                                <input class="${properties.kcButtonClass!} ${properties.kcButtonDefaultClass!} ${properties.kcButtonLargeClass!}" name="cancel" type="submit" value="${msg("doCancel")}" />
                             </div>
                         </div>
                     </div>
