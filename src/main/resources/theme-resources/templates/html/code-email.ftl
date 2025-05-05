@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
     <meta name="x-apple-disable-message-reformatting" />
-    <title>Template_copy</title>
+    <title>Login Verification Code</title>
     <!-- Made with Postcards Email Builder by Designmodo -->
     <style>
     html,
