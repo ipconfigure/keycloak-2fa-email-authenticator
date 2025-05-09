@@ -5,14 +5,15 @@
     <meta charset="UTF-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <!--[if !mso]
-><!-- -->
+>
+				<!-- -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <!--<![endif]
 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
     <meta name="x-apple-disable-message-reformatting" />
-    <title>Login Verification Code</title>
+    <title>Login Verification code</title>
     <!-- Made with Postcards Email Builder by Designmodo -->
     <style>
     html,
@@ -300,26 +301,32 @@
     </style>
     <!--[if mso]
 >
-    <style type="text/css">
-        .pc-font-alt {
+								<style type="text/css">.pc-font-alt {
             font-family: Arial Black, Gadget, sans-serif !important;
         }
-    </style>
-    <![endif]
+</style>
+								<![endif]
 -->
     <!--[if gte mso 9]
 >
-    <xml>
-        <o:OfficeDocumentSettings>
-            <o:AllowPNG/>
-            <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-    </xml>
-    <![endif]
+										<xml>
+											<o:OfficeDocumentSettings>
+												<o:AllowPNG/>
+												<o:PixelsPerInch>96</o:PixelsPerInch>
+											</o:OfficeDocumentSettings>
+										</xml>
+										<![endif]
 -->
 </head>
 
 <body class="body pc-font-alt" style="width: 100% !important; min-height: 100% !important; margin: 0 !important; padding: 0 !important; font-weight: normal; color: #2D3A41; mso-line-height-rule: exactly; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; font-variant-ligatures: normal; text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale; background-color: #f4f4f4;" bgcolor="#f4f4f4">
+    <div style="color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;">Your login verification code</div>
+    <!--[if !gte mso 9]
+>
+												<!-- -->
+    <div style="display: none; max-height: 0px; overflow: hidden;">&#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279; &#847; &zwnj; &nbsp; &#8199; &#65279;</div>
+    <!--<![endif]
+-->
     <table class="pc-project-body" style="table-layout: fixed; width: 100%; min-width: 550px; background-color: #f4f4f4;" bgcolor="#f4f4f4" border="0" cellspacing="0" cellpadding="0" role="presentation">
         <tr>
             <td align="center" valign="top" style="width:auto;">
@@ -333,33 +340,36 @@
                                         <table style="border-collapse: separate; border-spacing: 0px;" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                                             <tr>
                                                 <!--[if !gte mso 9]
-><!-- -->
+>
+																											<!-- -->
                                                 <td valign="top" class="pc-w520-padding-25-25-25-25 pc-w620-padding-25-30-25-30" style="background-image: url('https://postcards-cdn.designmodo.com/images-cdn/image-1733773893776.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 25px 40px 25px 40px; height: unset; border-radius: 8px 8px 0px 0px; border-top: 1px solid #a9b3bb80; border-right: 1px solid #a9b3bb80; border-left: 1px solid #a9b3bb80; background-color: #ffffff;" bgcolor="#ffffff" background="https://postcards-cdn.designmodo.com/images-cdn/image-1733773893776.jpeg">
                                                     <!--<![endif]
 -->
                                                     <!--[if gte mso 9]
 >
-                <td valign="top" align="center" style="background-image: url('https://postcards-cdn.designmodo.com/images-cdn/image-1733773893776.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat; background-color: #ffffff; border-radius: 8px 8px 0px 0px; border-top: 1px solid #a9b3bb80; border-right: 1px solid #a9b3bb80; border-left: 1px solid #a9b3bb80;" bgcolor="#ffffff" background="https://postcards-cdn.designmodo.com/images-cdn/image-1733773893776.jpeg">
-            <![endif]
+																															<td valign="top" align="center" style="background-image: url('https://postcards-cdn.designmodo.com/images-cdn/image-1733773893776.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat; background-color: #ffffff; border-radius: 8px 8px 0px 0px; border-top: 1px solid #a9b3bb80; border-right: 1px solid #a9b3bb80; border-left: 1px solid #a9b3bb80;" bgcolor="#ffffff" background="https://postcards-cdn.designmodo.com/images-cdn/image-1733773893776.jpeg">
+																																<![endif]
 -->
                                                     <!--[if gte mso 9]
 >
-                <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width: 548px;">
-                    <v:fill src="https://postcards-cdn.designmodo.com/images-cdn/image-1733773893776.jpeg" color="#ffffff" type="frame" size="1,1" aspect="atleast" origin="0,0" position="0,0"/>
-                    <v:textbox style="mso-fit-shape-to-text: true;" inset="0,0,0,0">
-                        <div style="font-size: 0; line-height: 0;">
-                            <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
-                                <tr>
-                                    <td style="font-size: 14px; line-height: 1.5;" valign="top">
-                                        <p style="margin:0;mso-hide:all"><o:p xmlns:o="urn:schemas-microsoft-com:office:office">&nbsp;</o:p></p>
-                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
-                                            <tr>
-                                                <td colspan="3" height="25" style="line-height: 1px; font-size: 1px;">&nbsp;</td>
-                                            </tr>
-                                            <tr>
-                                                <td width="40" valign="top" style="line-height: 1px; font-size: 1px;">&nbsp;</td>
-                                                <td valign="top" align="left">
-                <![endif]
+																																		<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width: 548px;">
+																																			<v:fill src="https://postcards-cdn.designmodo.com/images-cdn/image-1733773893776.jpeg" color="#ffffff" type="frame" size="1,1" aspect="atleast" origin="0,0" position="0,0"/>
+																																			<v:textbox style="mso-fit-shape-to-text: true;" inset="0,0,0,0">
+																																				<div style="font-size: 0; line-height: 0;">
+																																					<table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
+																																						<tr>
+																																							<td style="font-size: 14px; line-height: 1.5;" valign="top">
+																																								<p style="margin:0;mso-hide:all">
+																																									<o:p xmlns:o="urn:schemas-microsoft-com:office:office">&nbsp;</o:p>
+																																								</p>
+																																								<table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+																																									<tr>
+																																										<td colspan="3" height="25" style="line-height: 1px; font-size: 1px;">&nbsp;</td>
+																																									</tr>
+																																									<tr>
+																																										<td width="40" valign="top" style="line-height: 1px; font-size: 1px;">&nbsp;</td>
+																																										<td valign="top" align="left">
+																																											<![endif]
 -->
                                                     <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                         <tr>
@@ -372,21 +382,23 @@
                                                     </table>
                                                     <!--[if gte mso 9]
 >
-                                                </td>
-                                                <td width="40" style="line-height: 1px; font-size: 1px;" valign="top">&nbsp;</td>
-                                            </tr>
-                                            <tr>
-                                                <td colspan="3" height="25" style="line-height: 1px; font-size: 1px;">&nbsp;</td>
-                                            </tr>
-                                        </table>
-                                    </td>
-                                </tr>
-                            </table>
-                        </div>
-                        <p style="margin:0;mso-hide:all"><o:p xmlns:o="urn:schemas-microsoft-com:office:office">&nbsp;</o:p></p>
-                    </v:textbox>
-                </v:rect>
-                <![endif]
+																																												</td>
+																																												<td width="40" style="line-height: 1px; font-size: 1px;" valign="top">&nbsp;</td>
+																																											</tr>
+																																											<tr>
+																																												<td colspan="3" height="25" style="line-height: 1px; font-size: 1px;">&nbsp;</td>
+																																											</tr>
+																																										</table>
+																																									</td>
+																																								</tr>
+																																							</table>
+																																						</div>
+																																						<p style="margin:0;mso-hide:all">
+																																							<o:p xmlns:o="urn:schemas-microsoft-com:office:office">&nbsp;</o:p>
+																																						</p>
+																																					</v:textbox>
+																																				</v:rect>
+																																				<![endif]
 -->
                                                 </td>
                                             </tr>
@@ -414,8 +426,9 @@
                                                                     <tr>
                                                                         <td valign="top" align="center">
                                                                             <div class="pc-font-alt" style="text-decoration: none;">
-                                                                                <div style="font-size: 32px;mso-line-height-alt:42px;line-height: 42px;text-align:center;text-align-last:center;color:#000000;font-style:normal;font-weight:400;letter-spacing:-0.5px;">
-                                                                                    <div><span style="font-family: 'Tahoma', Geneva, sans-serif;">Your Login Verification Code</span>
+                                                                                <div style="font-size:32px;mso-line-height-alt:42px;line-height:42px;text-align:center;text-align-last:center;color:#000000;font-style:normal;font-weight:400;letter-spacing:-0.5px;">
+                                                                                    <div>
+                                                                                        <span style="font-family: 'Tahoma', Geneva, sans-serif; font-size: 32px; line-height: 42px;">Your Login Verification Code</span>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -432,8 +445,9 @@
                                                                     <tr>
                                                                         <td valign="top" align="left">
                                                                             <div class="pc-font-alt" style="text-decoration: none;">
-                                                                                <div style="font-size: 16px;mso-line-height-alt:28.8px;line-height: 28.8px;text-align:left;text-align-last:left;color:#878787;font-style:normal;font-weight:400;letter-spacing:-0.2px;">
-                                                                                    <div><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%; text-transform: null;">To complete your login to the IPConfigure Customer Portal, please enter the following verification code:</span>
+                                                                                <div style="font-size:16px;mso-line-height-alt:28.8px;line-height:28.8px;text-align:left;text-align-last:left;color:#878787;font-style:normal;font-weight:400;letter-spacing:-0.2px;">
+                                                                                    <div>
+                                                                                        <span style="font-family: 'Helvetica', Arial, serif; font-size: 16px; line-height: 180%; text-transform: null;">To complete your login to the IPConfigure Customer Portal, please enter the following verification code:</span>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -450,8 +464,9 @@
                                                                     <tr>
                                                                         <td valign="top" align="center">
                                                                             <div class="pc-font-alt" style="text-decoration: none;">
-                                                                                <div style="font-size: 16px;mso-line-height-alt:28.8px;line-height: 28.8px;text-align:center;text-align-last:center;color:#000000;font-style:normal;font-weight:400;letter-spacing:-0.2px;">
-                                                                                    <div class="pc-w620-text-align-center"><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%; text-transform: null;" class="pc-w620-font-size-18px">
+                                                                                <div style="font-size:18px;mso-line-height-alt:36px;line-height:36px;text-align:center;text-align-last:center;color:#000000;font-style:normal;font-weight:400;letter-spacing:-0.2px;">
+                                                                                    <div class="pc-w620-text-align-center">
+                                                                                        <span style="font-family: 'Helvetica', Arial, serif; font-size: 20px; line-height: 180%; text-transform: null;" class="pc-w620-font-size-18px">
                                                                                             ${kcSanitize(msg("emailCodeBody", code))?no_esc}
                                                                                         </span>
                                                                                     </div>
@@ -470,8 +485,17 @@
                                                                     <tr>
                                                                         <td valign="top" align="left">
                                                                             <div class="pc-font-alt" style="text-decoration: none;">
-                                                                                <div style="font-size: 16px;mso-line-height-alt:28.8px;line-height: 28.8px;text-align:left;text-align-last:left;color:#878787;font-style:normal;font-weight:400;letter-spacing:-0.2px;">
-                                                                                    <div><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%;">This code will expire in 5 minutes. If you didn’t try to log in, please ignore this message or </span><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%;" class="pc-w620-font-size-16px">contact</span><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%;" class="pc-w620-font-size-16px"> </span><a href="https://www.ipconfigure.com/support" target="_blank" rel="noreferrer" style="text-decoration:none;color:inherit;color: rgb(0, 100, 148);"><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%;" class="pc-w620-font-size-16px">IPConfigure</span><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%;" class="pc-w620-font-size-16px"> </span><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%;" class="pc-w620-font-size-16px">Technical Support</span></a><span style="font-family: 'Helvetica', Arial, serif;line-height: 180%;"> immediately.</span>
+                                                                                <div style="font-size:16px;mso-line-height-alt:28.8px;line-height:28.8px;text-align:left;text-align-last:left;color:#878787;font-style:normal;font-weight:400;letter-spacing:-0.2px;">
+                                                                                    <div>
+                                                                                        <span style="font-family: 'Helvetica', Arial, serif; font-size: 16px; line-height: 180%;">This code will expire in 5 minutes. If you didn’t try to log in, please ignore this message or</span>
+                                                                                        <span style="font-family: 'Helvetica', Arial, serif; font-size: 16px; line-height: 180%;" class="pc-w620-font-size-16px">contact</span>
+                                                                                        <span style="font-family: 'Helvetica', Arial, serif; font-size: 16px; line-height: 180%;" class="pc-w620-font-size-16px"></span>
+                                                                                        <a href="https://www.ipconfigure.com/support" target="_blank" rel="noreferrer" style="text-decoration:none;color:inherit;color: rgb(0, 100, 148);">
+                                                                                            <span style="font-family: 'Helvetica', Arial, serif; font-size: 16px; line-height: 180%;" class="pc-w620-font-size-16px">IPConfigure</span>
+                                                                                            <span style="font-family: 'Helvetica', Arial, serif; font-size: 16px; line-height: 180%;" class="pc-w620-font-size-16px"></span>
+                                                                                            <span style="font-family: 'Helvetica', Arial, serif; font-size: 16px; line-height: 180%;" class="pc-w620-font-size-16px">Technical Support</span>
+                                                                                        </a>
+                                                                                        <span style="font-family: 'Helvetica', Arial, serif; font-size: 16px; line-height: 180%;">immediately.</span>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -495,7 +519,7 @@
                                                 <td valign="top" class="pc-w520-padding-30-30-30-30 pc-w620-padding-35-35-35-35" style="padding: 40px 40px 40px 40px; height: unset; border-radius: 0px 0px 8px 8px; border-right: 1px solid #a9b3bb80; border-bottom: 1px solid #a9b3bb80; border-left: 1px solid #a9b3bb80; background-color: #0f1d25;" bgcolor="#0f1d25">
                                                     <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                         <tr>
-                                                            <td class="pc-w620-spacing-0-0-40-0" style="padding: 0px 0px 20px 0px;">
+                                                            <td class="pc-w620-spacing-0-0-40-0">
                                                                 <table class="pc-width-fill pc-w620-gridCollapsed-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                                                                     <tr class="pc-grid-tr-first pc-grid-tr-last">
                                                                         <td class="pc-grid-td-first pc-w620-itemsSpacings-0-20" align="left" valign="top" style="width: 50%; padding-top: 0px; padding-right: 20px; padding-bottom: 0px; padding-left: 0px;">
@@ -507,10 +531,14 @@
                                                                                                 <td valign="top">
                                                                                                     <div class="pc-font-alt" style="line-height: 150%; letter-spacing: -0.2px; font-family: Helvetica, Arial, serif; font-size: 14px; font-weight: normal; color: #d8d8d8;">
                                                                                                         IPConfigure
-                                                                                                        <br />2330 Bow&zwnj;dens Ferry Rd
-                                                                                                        <br />Suite &zwnj;100
-                                                                                                        <br />Norfolk, VA 2350&zwnj;8
-                                                                                                        <br />855-440-1077
+                                                                                                        <br />
+                                                                                                        2330 Bow&zwnj;dens Ferry Rd
+                                                                                                        <br />
+                                                                                                        Suite &zwnj;100
+                                                                                                        <br />
+                                                                                                        Norfolk, VA 2350&zwnj;8
+                                                                                                        <br />
+                                                                                                        855-440-1077
                                                                                                     </div>
                                                                                                 </td>
                                                                                             </tr>
